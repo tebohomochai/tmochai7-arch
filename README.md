@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I am Teboho 👋
 
-<!--
-**tmochai7-arch/tmochai7-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an MCom candidate in Operations Research at Stellenbosch University, finishing up a thesis on emotion classification from news headlines, where I compare RF, SVM, XGBoost
+and MLP classifiers across lexicon-based, embedding-based and hybrid feature representations.
 
-Here are some ideas to get you started:
+**Currently:**
+- 🎓 Finishing my MCom 
+- 🔍 Job hunting for roles in business intelligence, data science and analytics
+- 🛠️ Building out deployment and cloud skills (Docker, AWS) and Power BI (working toward PL-300)
+- 📊 Turning research-mode habits into shipped, working projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Background:**
+Coming from a research-heavy academic path, I am focused on closing the gap between
+"I can train a model in a notebook" and "I can deploy it and put it in front of someone."
+
+📫 Reach me at: [tmochai7@gmail.com]
