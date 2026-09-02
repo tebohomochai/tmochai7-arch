@@ -10,7 +10,7 @@ and MLP classifiers across lexicon-based, embedding-based and hybrid feature rep
 - 📊 Turning research-mode habits into shipped, working projects
 
 **Background:**
-Coming from a research-heavy academic path, I am focused on closing the gap between
-"I can train a model in a notebook" and "I can deploy it and explain the results."
+Coming from a full research academic path, I am focused on closing the gap between
+"I can train a model in a notebook" and "I can deploy a model and explain the results."
 
 📫 Reach me at: [tmochai7@gmail.com]
